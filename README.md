@@ -1,1 +1,1 @@
-# r-projects
+This respository contains some useful R scripts.
